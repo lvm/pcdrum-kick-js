@@ -1,0 +1,32 @@
+{
+  "name": "pcdrum-kick",
+  "version": "0.0.1",
+  "description": "PC Drum - Bass Drum Kick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pcdrum-envelope": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvm/pcdrum-kick-js.git"
+  },
+  "keywords": [
+    "kick",
+    "bass-drum",
+    "node",
+    "node-webkit",
+    "nwjs",
+    "audiocontext",
+    "web",
+    "audio"
+  ],
+  "author": "Mauro <mauro@sdf.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvm/pcdrum-kick-js/issues"
+  },
+  "homepage": "https://github.com/lvm/pcdrum-kick-js#readme"
+}
